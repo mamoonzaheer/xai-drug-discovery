@@ -20,6 +20,8 @@ The project uses a comprehensive dataset (`drug_discovery.csv`) containing:
 - Binding affinity measurements
 - Mechanism of action data
 
+Note: The dataset file `drug_discovery.csv` is not included in this repository because of size limits on GitHub.
+
 ## Features
 
 - Multi-output regression model for predicting binding affinities
